@@ -1,6 +1,6 @@
 # Event Driven Development
 
-[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discord.gg/THcczpJDSz)
+[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white&label=join%20discord)](https://discord.gg/THcczpJDSz)
 
 Event Driven Development is a Approach that produce Events on Source-Code changes.
 
