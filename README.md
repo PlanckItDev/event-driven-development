@@ -2,7 +2,7 @@
 
 [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white&label=join%20discord)](https://discord.gg/THcczpJDSz)
 
-Event Driven Development is a Approach that produce Events on Source-Code changes.
+Event Driven Development is an Approach that produce Events on Source-Code changes.
 
 Events will be synced in Real-Time - No Commits - No Push.
 
