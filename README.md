@@ -14,3 +14,8 @@ Key Aspects:
 - Full Traceability of Events
 - Every Action in the Source-Code Development Process is an Event
 - Every Action in the Source-Code Interaction Process is an Event
+
+## Implications
+
+- Everyone can contribute in real-time
+- Everyone get feedback in real-time
