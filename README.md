@@ -19,3 +19,5 @@ Key Aspects:
 
 - Everyone can contribute in real-time
 - Everyone get feedback in real-time
+
+## Require contributions
