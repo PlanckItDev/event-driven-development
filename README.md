@@ -21,3 +21,5 @@ Key Aspects:
 - Everyone get feedback in real-time
 
 ## Require contributions
+If you feel the hype join me!
+Currently just on discord, github, and email
