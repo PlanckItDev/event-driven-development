@@ -26,7 +26,10 @@ Currently just on discord, github, and email
 
 ## Shorts
 
+
 ![image](https://github.com/user-attachments/assets/32bceda6-781d-4097-ad6d-ebafb0c8b0a8)
+
+![image](https://github.com/user-attachments/assets/050676f9-c788-4a4a-a9d3-ac50b60acf91)
 
 
 
