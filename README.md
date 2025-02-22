@@ -23,3 +23,18 @@ Key Aspects:
 ## Require contributions
 If you feel the hype join me!
 Currently just on discord, github, and email
+
+## Shorts
+
+![Uploading image.png…]()
+
+
+### One Platform
+One Platform to streamline all Full Application Tools
+
+
+
+What we want? One Platform to seamless integraate every tooling that is siutable for our business.
+
+
+
