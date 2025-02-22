@@ -26,7 +26,8 @@ Currently just on discord, github, and email
 
 ## Shorts
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/32bceda6-781d-4097-ad6d-ebafb0c8b0a8)
+
 
 
 ### One Platform
